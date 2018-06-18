@@ -1,0 +1,11 @@
+/* ---- particles.js container ---- */
+#particles-js{
+  width: 100%;
+  height: 100%;
+  /*background-color: #b61924;*/
+  /*background-image: url('C:/wamp/www/learn/s.jpg');*/
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("../img/s.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
